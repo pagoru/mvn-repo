@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=org.cakepowered.api -DartifactId=cakeapimod -Dversion=3.1.2 -Dpackaging=jar -Dfile=E:\Dropbox\bewom.es\CakeApiMod-3.1.2.jar -DlocalRepositoryPath=D:\workspace\mvn-repo\
