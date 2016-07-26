@@ -1,1 +1,15 @@
+Comando:
 mvn install:install-file -DgroupId=org.cakepowered.api -DartifactId=cakeapimod -Dversion=3.1.2 -Dpackaging=jar -Dfile=E:\Dropbox\bewom.es\CakeApiMod-3.1.2.jar -DlocalRepositoryPath=D:\workspace\mvn-repo\
+
+pom.xml:
+<dependency>
+			<groupId>org.cakepowered.api</groupId>
+			<artifactId>cakeapimod</artifactId>
+			<version>3.1.2</version>
+			<scope>compile</scope>
+</dependency>
+<repository>
+			<id>pagoru</id>
+			<name>mvn-repo</name>
+			<url>https://github.com/pagoru/mvn-repo/raw/master/</url>
+</repository>
