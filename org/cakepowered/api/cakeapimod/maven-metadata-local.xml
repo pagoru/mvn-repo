@@ -3,9 +3,9 @@
   <groupId>org.cakepowered.api</groupId>
   <artifactId>cakeapimod</artifactId>
   <versioning>
-    <release>3.3.0</release>
+    <release>3.3.1</release>
     <versions>
-      <version>3.3.0</version>
+      <version>3.3.1</version>
     </versions>
     <lastUpdated>20160725235912</lastUpdated>
   </versioning>
